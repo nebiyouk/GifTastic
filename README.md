@@ -1,5 +1,3 @@
-# GifTastic
-
 <h1>HW6 - GifTastic</h1>
 <br>
 <h2>This app displays buttons related to a certain topic and allows you to add search terms to generate additional buttons that when clicked, accesses the GIPHY API and generates 10 static GIPHY images. Click on an image to pause or play the GIF.</h2>
