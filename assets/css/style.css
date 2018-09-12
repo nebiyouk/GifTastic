@@ -1,0 +1,90 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+body {
+    background-image: url("../images/bgr.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header1 {
+      text-align: center;
+  }
+.nebi {
+    margin-top: 100px;
+}
+img {
+    padding: 25px;
+}
+
+.gifSection div {
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/*Input*/
+input.form-control.search {
+    width: 50em;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    padding-top: 25px;
+}
+
+.searchBtn {
+    background-color:#eeeeee;
+}
+
+#btn-section {
+    width: 15%;
+    height: 100%;
+    background-color:rgb(125, 201, 211);
+    border-radius: 10px;
+    font-size: 2vw;
+    padding-top: 25px;
+}
+
+.input-group {
+    margin: 10px 0 0 50px;
+}
+
+
+/*Gif Buttons */
+
+.gif {
+    margin: 20px auto;
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.gifStart {
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+/*Social Links*/
+
+.icons {
+    text-align: center;
+}
+
+.icons li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.github {
+    height: 5.5em;
+}
+
+.linkedin {
+    height: 5em;
+}
+
+p {
+    position: relative;
+    top: 260px;
+}
