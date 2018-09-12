@@ -77,7 +77,7 @@ $(document).ready(function () {
         var btnVal = $(this).data('name');
         //Api URL and key 
         var apiKey = 'ZMU74vVwFevCD2uz5kV9iaiVPUQc9lWs';
-        var apiUrl = 'http://api.giphy.com/v1/gifs/search?q=' + btnVal + '&api_key=' + apiKey;
+        var apiUrl = 'https://api.giphy.com/v1/gifs/search?q=' + btnVal + '&api_key=' + apiKey;
         $.ajax({
             url: apiUrl,
             method: 'GET'
