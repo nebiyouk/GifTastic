@@ -25,3 +25,4 @@
 •	AJAX Call to Giphy's API was created to access the images by topic entered.
 •	Event listeners on "click" were utilized 
 
+<strong>If you Want to See Demo</strong> <a href = "https://nebiyouk.github.io/GifTastic" target = "_blank">Click Me</a>
